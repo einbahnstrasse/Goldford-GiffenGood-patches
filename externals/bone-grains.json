@@ -1,0 +1,243 @@
+{
+	"pattrstorage" : 	{
+		"name" : "bone-grains",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"grain-duration" : [ 235 ],
+					"grain-period" : [ 54 ],
+					"grain-position" : [ 262.549011 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 412 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 4 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"grain-duration" : [ 225 ],
+					"grain-period" : [ 22 ],
+					"grain-position" : [ 878.529419 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 87 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 3 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"grain-duration" : [ 225 ],
+					"grain-period" : [ 48 ],
+					"grain-position" : [ 666.470581 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 102 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 0 ]
+				}
+
+			}
+,
+			"4" : 			{
+				"id" : 4,
+				"data" : 				{
+					"grain-duration" : [ 274 ],
+					"grain-period" : [ 76 ],
+					"grain-position" : [ 1645.980347 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 171 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 4 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"grain-duration" : [ 161 ],
+					"grain-period" : [ 76 ],
+					"grain-position" : [ 1645.980347 ],
+					"live.dial[1]" : [ 100.0 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 92.519684 ],
+					"posi-variation" : [ 171 ],
+					"randomize" : [ 1 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 1 ]
+				}
+
+			}
+,
+			"6" : 			{
+				"id" : 6,
+				"data" : 				{
+					"grain-duration" : [ 206 ],
+					"grain-period" : [ 72 ],
+					"grain-position" : [ 908.823547 ],
+					"live.dial[1]" : [ 76.377953 ],
+					"live.dial[2]" : [ 12.913385 ],
+					"live.dial[3]" : [ 31.102362 ],
+					"posi-variation" : [ 206 ],
+					"randomize" : [ 1 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 1 ]
+				}
+
+			}
+,
+			"7" : 			{
+				"id" : 7,
+				"data" : 				{
+					"grain-duration" : [ 275 ],
+					"grain-period" : [ 55 ],
+					"grain-position" : [ 212.058823 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 294 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 3 ]
+				}
+
+			}
+,
+			"8" : 			{
+				"id" : 8,
+				"data" : 				{
+					"grain-duration" : [ 504 ],
+					"grain-period" : [ 367 ],
+					"grain-position" : [ 212.058823 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 294 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 3 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"grain-duration" : [ 504 ],
+					"grain-period" : [ 367 ],
+					"grain-position" : [ 1009.803894 ],
+					"live.dial[1]" : [ 81.102356 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 404.330719 ],
+					"posi-variation" : [ 470 ],
+					"randomize" : [ 1 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 3 ]
+				}
+
+			}
+,
+			"10" : 			{
+				"id" : 10,
+				"data" : 				{
+					"grain-duration" : [ 407 ],
+					"grain-period" : [ 176 ],
+					"grain-position" : [ 262.549011 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 412 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 4.0 ],
+					"transpose-std" : [ 6.1 ],
+					"window-type" : [ 4 ]
+				}
+
+			}
+,
+			"11" : 			{
+				"id" : 11,
+				"data" : 				{
+					"grain-duration" : [ 504 ],
+					"grain-period" : [ 367 ],
+					"grain-position" : [ 1009.803894 ],
+					"live.dial[1]" : [ 81.102356 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 404.330719 ],
+					"posi-variation" : [ 470 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 0 ]
+				}
+
+			}
+,
+			"12" : 			{
+				"id" : 12,
+				"data" : 				{
+					"grain-duration" : [ 407 ],
+					"grain-period" : [ 176 ],
+					"grain-position" : [ 262.549011 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 412 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 4.0 ],
+					"transpose-std" : [ 6.1 ],
+					"window-type" : [ 0 ]
+				}
+
+			}
+,
+			"24" : 			{
+				"id" : 24,
+				"data" : 				{
+					"grain-duration" : [ 235 ],
+					"grain-period" : [ 0 ],
+					"grain-position" : [ 262.549011 ],
+					"live.dial[1]" : [ 90.551178 ],
+					"live.dial[2]" : [ 20.0 ],
+					"live.dial[3]" : [ 50.0 ],
+					"posi-variation" : [ 412 ],
+					"randomize" : [ 0 ],
+					"transpose" : [ 0.0 ],
+					"transpose-std" : [ 0.0 ],
+					"window-type" : [ 4 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

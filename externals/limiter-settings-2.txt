@@ -1,0 +1,1 @@
+1, 0 bypass 0 0 1 0 toggle;2, 0 threshold 18 0 100 -15 dB;3, 0 mode 0 0 1 0 setting;4, 0 ingain 68 0 100 8 dB;5, 0 outgain 81 0 100 15 dB;6, 2;

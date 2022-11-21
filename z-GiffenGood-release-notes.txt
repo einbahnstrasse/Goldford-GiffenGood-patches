@@ -1,0 +1,22 @@
+Giffen Good (2014) // release notes
+
+Version 1.0 - 06.29.14
+-sent to David + Nicholas
+-(this release notes file not included in original download. In next release!)
+
+Version 2.0 — 10.05.15 — updated for performance at ICMC, 09.27.15
+-Updated main patcher (v.05); 
+-Now includes support for a client patch (see below) and faders for a computer assistant to balance levels of ind. synth components;
+-Main patch is now run from mix position;
+-Client patch is now run on stage for cueing and improv section;
+-Added client patch (03-ein.LiveTrombone-005.maxpat);
+-Client and main patch to run on same ad-hoc WIFI / TCP network for communication;
+-Added a test patch for live input, e.g. for soundchecks w/o performer (04-testboneplayer.maxpat);
+-Added a recorder patch (05-RECORDit.maxpat) that can run alongside main patch to record live input + all outputs into one interleaved file.
+-Updated cue list to current version GiffenQs8.txt. Fixed quotes (“), autocorrected in TextEdit that screwed up syntax;
+-01-instructions.pdf and 00-README-Giffen-Good.txt still need to be updated to reflect these changes!
+-z-ListOfExternals.txt updated with new additions to the main patch. A similar document for the client patch has NOT yet been created.
+
+Version 3.0 — 10.16.16 — in preparation for University of Missouri, 2/2017
+-updated Main Patch (version 06);
+-changed [p cuelogic] to [p cuelogic-exNonEx] which allows the assistant to execute JUMP CUEING, to facilitate rehearsals. Qlist’s rewind problem has been solved. Now the user may launch an individual cue mid-piece (from the “p cuez” subpatch) without launching the cues that came before it. (This has only been tested on a few cues, however; there may be further problems due to preloading a sound file a cue earlier, prior to launching that sound file’s cue. If this becomes a problem I will need to redesign the Qlist to reflect this.)

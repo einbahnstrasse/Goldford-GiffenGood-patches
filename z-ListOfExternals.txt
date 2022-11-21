@@ -1,0 +1,177 @@
+Externals and subpatcher files for 02-GiffenGood-MAIN-PATCH-05:
+Abstraction    005-boney-poly-rez.maxpat      Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals/005-boney-poly-rez.maxpat
+Abstraction    bach.+.maxpat                  Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.+.maxpat
+Abstraction    bach.dx2x.maxpat               Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.dx2x.maxpat
+Abstraction    bach.f2mc.maxpat               Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.f2mc.maxpat
+Abstraction    bach.filter.maxpat             Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.filter.maxpat
+Abstraction    bach.filternull.maxpat         Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.filternull.maxpat
+Abstraction    bach.mod.maxpat                Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.mod.maxpat
+Abstraction    bach.repeat.maxpat             Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.repeat.maxpat
+Abstraction    bach.unpacknote.maxpat         Macintosh HD:/Applications/Max 6.1/packages/bach/patchers/bach.unpacknote.maxpat
+Abstraction    bone-overlap-pan4-02.maxpat    Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals/bone-overlap-pan4-02.maxpat
+Abstraction    ein.2o.markov.maxpat           Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.2o.markov.maxpat
+Abstraction    ein.4to2.maxpat                Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.4to2.maxpat
+Abstraction    ein.BoneGrains.maxpat          Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.BoneGrains.maxpat
+Abstraction    ein.DSEmodels.maxpat           Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.DSEmodels.maxpat
+Abstraction    ein.DisplaySpectrum.maxpat     Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.DisplaySpectrum.maxpat
+Abstraction    ein.FreqShiftFlux.maxpat       Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.FreqShiftFlux.maxpat
+Abstraction    ein.LiveBoneAnalyze.maxpat     Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.LiveBoneAnalyze.maxpat
+Abstraction    ein.LiveRez.maxpat             Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.LiveRez.maxpat
+Abstraction    ein.MarketGenerate.maxpat      Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.MarketGenerate.maxpat
+Abstraction    ein.PeakLimSpat.maxpat         Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.PeakLimSpat.maxpat
+Abstraction    ein.PriceFlux.maxpat           Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.PriceFlux.maxpat
+Abstraction    ein.Tiles+MFCC.maxpat          Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.Tiles+MFCC.maxpat
+Abstraction    ein.footswitcher.maxpat        Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.footswitcher.maxpat
+Abstraction    ein.recordGOLDquotes.maxpat    Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/patchers/ein.recordGOLDquotes.maxpat
+Abstraction    tiles-poly-002.maxpat          Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals/tiles-poly-002.maxpat
+Abstraction    zsa.abs_freqpeak~.maxpat       Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals/zsa.abs_freqpeak~.maxpat
+Abstraction    zsa.easy_freqpeak~.maxpat      Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals/zsa.easy_freqpeak~.maxpat
+Max Object     rminus.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     rdiv.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   plus~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   greaterthan~.mxo               Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     absolutepath.mxo               Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   adc~.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   adsr~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     adstatus.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     ambimonitor.mxo                Macintosh HD:/Applications/Max 6.1/patches/ICST_ambisonics_2.2
+MSP64 Object   ambipanning~.mxo               Macintosh HD:/Applications/Max 6.1/patches/ICST_ambisonics_2.2
+Max Object     atodb.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     attrui.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     autopattr.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     bach.append.mxo                Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.args.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.collect.mxo               Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.eq.mxo                    Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.expr.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.flat.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.geq.mxo                   Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.is.mxo                    Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.iter.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.keys.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.length.mxo                Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.mc2n.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.n2mc.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.neq.mxo                   Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.nth.mxo                   Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.pick.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.portal.mxo                Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.reg.mxo                   Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.roll.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.score.mxo                 Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.slice.mxo                 Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+Max Object     bach.wrap.mxo                  Macintosh HD:/Applications/Max 6.1/packages/bach/externals
+MSP64 Object   biquad~.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     bucket.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     buddy.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   buffer~.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     button.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     clip.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     coll.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     comment.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   cos~.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     counter.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     cpuclock.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     cycle.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   dac~.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     dbtoa.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     decide.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     deferlow.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     delay.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     drunk.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   edge~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   ezdac~.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   fftin~.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   filtergraph~.mxo               Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     number.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     forward.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP32 Object   freeverb~.mxo                  Macintosh HD:/Applications/Max 6.1/packages/Goldford-NascentStates-PATCHES-A/externals
+MSP64 Object   freqshift~.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     fromsymbol.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     ftm.copy.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     ftm.editor.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     ftm.list.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     ftm.mess.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     ftm.object.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     ftom.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     function.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   gain~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   gate~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     gbr.bands.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     gbr.copy.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     gbr.fft.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+MSP32 Object   gbr.fire~.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+MSP32 Object   gbr.ola~.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     gbr.peaks.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     gbr.resample.mxo               Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+MSP32 Object   gbr.slice~.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     gbr.wind=.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+MSP64 Object   groove~.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     gswitch.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     hi.mxo                         Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     in.mxo                         Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   in~.mxo                        Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     join.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     line.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   line~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     list-interpolate.mxo           Macintosh HD:/Applications/Max 6.1/patches/CNMAT-Everything-OSX-MachO
+Max Object     live.guilib.mxo                Macintosh HD:/Applications/Max 6.1/Cycling '74/extensions
+MSP64 Object   live.gain~.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/m4l-externals
+MSP64 Object   live.meter~.mxo                Macintosh HD:/Applications/Max 6.1/Cycling '74/m4l-externals
+Max Object     live.guilib.mxo                Macintosh HD:/Applications/Max 6.1/Cycling '74/extensions
+Max Object     loadmess.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     makenote.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     matrixctrl.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   matrix~.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     message.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     metro.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     mnm.xdist2.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/ftm-and-co/externals
+Max Object     multislider.mxo                Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     mute~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     mxj.mxo                        Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   noise~.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     number.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   omx.peaklim~.mxo               Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     onebang.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     out.mxo                        Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   out~.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     pak.mxo                        Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     panel.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     patcherargs.mxo                Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     pattrstorage.mxo               Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   peakamp~.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   pfft~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     pipe.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   poly~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     prepend.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     qlist.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   receive~.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     regexp.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     res-transform.mxo              Macintosh HD:/Applications/Max 6.1/patches/CNMAT-Everything-OSX-MachO
+Max Object     resdisplay.mxo                 Macintosh HD:/Applications/Max 6.1/patches/CNMAT-Everything-OSX-MachO
+MSP32 Object   resonators~.mxo                Macintosh HD:/Applications/Max 6.1/patches/CNMAT-Everything-OSX-MachO
+Max Object     round.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     rslider.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     scale.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   send~.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   sfplay~.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   sig~.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     slide.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     slider.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     split.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     sprintf.mxo                    Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     sqrt.mxo                       Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     substitute.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     textbutton.mxo                 Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     textedit.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   thispoly~.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+MSP64 Object   times~.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/msp-externals
+Max Object     toggle.mxo                     Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     tosymbol.mxo                   Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     translate.mxo                  Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     umenu.mxo                      Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     urn.mxo                        Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     uzi.mxo                        Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+Max Object     zl.mxo                         Macintosh HD:/Applications/Max 6.1/Cycling '74/max-externals
+MSP64 Object   zsa.freqpeak~.mxo              Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals
+Max Object     zsa.fund.mxo                   Macintosh HD:/Applications/Max 6.1/packages/Goldford-GiffenGood-patches-B/externals
