@@ -1,97 +1,91 @@
-# Goldford-GiffenGood-patches
-repository for electronic performance materials
+# Goldford-GiffenGood-patches     
+Performance patches for Louis Goldford’s "Giffen Good" (2014) for trombone + live electronics
 
-::: G I F F E N   G O O D :::  (2014)  |  for trombone + live electronics
-composed by Louis Goldford ::: for David Whitwell on the slide trampagne
+## _Giffen Good_ — Performance Patch
 
-If experiencing any issues, send me an email: louis.goldford@columbia.edu.
+for trombone and live electronics
 
-Instructions on operating the patch & user interface are published in the score.
+Composed by Louis Goldford (2014)  
+Version for MaxMSP designed by Louis Goldford  
 
-/////////////////////////////////////////////////////////////////////////////////////
+### Contact  
+* louis.goldford@columbia.edu  
 
-Software designed in Max/MSP v. 6.1.3+
+See the [License Agreement](/LICENSE) and [email Louis Goldford with questions or technical concerns.](mailto:louis.goldford@columbia.edu?subject=[GitHub]%20Mauvaise%20Foi%20patch)  
 
-***Please be sure you're running the latest version of Max!***
+Software and patch components are integral to the composition and are not intended as general-purpose tools.
+
+All materials are licensed under **CC-BY-NC-ND 4.0**. Performance use is permitted. Redistribution of modified materials requires permission from the composer.
+
+_In general, a technical assistant, computer musician, or someone well-versed in MaxMSP should be consulted on site in order to properly setup and execute the performance patch._   
+
+---
+
+### Requirements
+
+Software designed in MaxMSP v. 6.1.3+
+
+***Please be sure you're running the latest version of Max!***  
 If you need an upgrade, visit http://cycling74.com/downloads/
 
-(If running Max 5, see below under "Installation.") 
-(Can also run on fee version Max Runtime from the above site.)
+The piece can also run on the free version Max Runtime from the above site.
 
-/////////////////////////////////////////////////////////////////////////////////////
+---
 
-::: ADDITIONAL MAX PACKAGES/LIBRARIES TO BE INSTALLED ::: (All bound by their original licenses.)
+### Additional Max Packages / Libraries
 
-Please have each of the following installed properly on your machine
-before attempting to open or run the piece…
+Please have each of the following installed properly on your machine before attempting to open or run the piece:
 
-1. IRCAM's FTM & Co. for Max v6+ --> http://ftm.ircam.fr/index.php/Download
-('Giffen Good' was composed w/ v2.6.0 BETA (09/2012), from the above site.)
+1. IRCAM’s FTM & Co. for Max v6+ → http://ftm.ircam.fr/index.php/Download  
+   ("Giffen Good" was composed with v2.6.0 BETA (09/2012))
 
-2. Bach: Automated Composer's Helper --> http://www.bachproject.net/download
-('Giffen Good' was composed w/ v0.7.1 BETA, from the above site.)
+2. Bach: Automated Composer’s Helper → http://www.bachproject.net/download  
+   ("Giffen Good" was composed with v0.7.1 BETA)
 
-3. Zsa.descriptors — http://www.e--j.com/index.php/what-is-zsa-descriptors/
-(‘Giffen Good’ was composed w/ v1.01, from the above site.)
+3. Zsa.descriptors → http://www.e--j.com/index.php/what-is-zsa-descriptors/  
+   ("Giffen Good" was composed with v1.01)
 
-4. CNMAT External objects for Max & MSP — https://www.cnmat.berkeley.edu/downloads
+4. CNMAT External objects for Max & MSP → https://www.cnmat.berkeley.edu/downloads
 
-5. ICST Ambisonics Externals for MaxMSP — https://www.zhdk.ch/forschung/icst/software-downloads-5379/downloads-ambisonics-externals-for-maxmsp-5381
+5. ICST Ambisonics Externals for MaxMSP → https://www.zhdk.ch/forschung/icst/software-downloads-5379/downloads-ambisonics-externals-for-maxmsp-5381
 
-Install each of the above Max packages/libraries using directions provided by each package.
-If experiencing any difficulty, contact those developers directly.
-Or send an email to louis.goldford@columbia.edu. I can provide limited support with these external libraries. 
+Install each of the above Max packages/libraries using directions provided by each package.  
 
-/////////////////////////////////////////////////////////////////////////////////////
+If experiencing any difficulty, contact those developers directly, or email Louis Goldford. Limited support can be provided with these external libraries.
 
-::: INSTALLATION OF THIS PACKAGE :::
+---
 
-Once unzipped, place the entire folder into your Max packages folder, i.e. the Max 8 folder contained in your Documents folder. 
+### Installation
 
-On mac0S, this folder should be located here:
+Once unzipped, place the entire folder into your Max packages folder (e.g. the Max 8 folder contained in your Documents folder).
 
-/Users/username/Documents/Max 8/Packages 
+On macOS, this folder should be located here:
 
-On Windows systems, the Max 8 folder will similarly be located inside your My Documents folder. 
+/Users/username/Documents/Max 8/Packages
 
-The piece also runs in Max 5. 
-If you're attempting to run it on a version of Max prior to v6, 
-place the folder somewhere in your Max search path instead. For example:
+On Windows systems, the Max 8 folder will similarly be located inside your My Documents folder.
 
-Macintosh HD:/Applications/Max 5/patches
+The piece also runs in Max 5.  
+If attempting to run it on a version of Max prior to v6, place the folder somewhere in your Max search path instead (for example: Macintosh HD:/Applications/Max 5/patches).
 
-****BUT!!****
-If running one of these earlier versions of Max, BE ABSOLUTELY SURE you are also
-running compatible earlier versions of the above ADDITIONAL LIBRARIES. See their
-websites for obtaining earlier versions.
+If running earlier versions of Max, ensure you are also running compatible earlier versions of the additional libraries. See their websites for obtaining earlier versions.
 
-/////////////////////////////////////////////////////////////////////////////////////
+---
 
-::: LICENSES + ACKNOWLEDGEMENTS :::
+### Licenses + Acknowledgements
 
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
-(CC BY-NC-ND 4.0) license
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)  
 
 http://creativecommons.org/licenses/by-nc-nd/4.0/
 
-This software is licensed under the Creative Commons 
-Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license 
---> http://creativecommons.org/licenses/by-nc-nd/4.0/ 
-with the exception of the aforementioned 'Additional Libraries,' 
-the following external objects included in this package,
-as well as an audio excerpt, outlined below.
+This software is licensed under CC BY-NC-ND 4.0 with the exception of the aforementioned additional libraries, the external objects included in this package, and an audio excerpt, all of which are bound by their original licenses.
 
-All such additional tools are bound by their original licenses.
+Special thanks to the following artists and developers whose expertise contributed to the design of this work:
 
-Additionally, I would like to extend my greatest thanks to the following artists, 
-developers and instructors, whose expertise have played an enormous role in the design 
-of my recent electroacoustic music, who taught me certain methods of synthesis and 
-design which may be found here or in some of my other pieces:
-
-Diemo Schwarz
-Jean Lochard
-Mikhail Malt
+Diemo Schwarz  
+Jean Lochard  
+Mikhail Malt  
 Tom Mays
 
--Louis Goldford
+— Louis Goldford  
 rev. November 2022, NYC
