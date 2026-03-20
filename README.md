@@ -1,6 +1,10 @@
 # Goldford-GiffenGood-patches     
 Performance patches for Louis Goldford’s "Giffen Good" (2014) for trombone + live electronics
 
+![License](https://img.shields.io/badge/license-CC%20BY--ND%204.0-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Max%2FMSP-orange)
+
 ## _Giffen Good_ — Performance Patch
 
 for trombone and live electronics
